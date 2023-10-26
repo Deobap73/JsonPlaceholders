@@ -1,0 +1,47 @@
+.json-placeholder {
+  position: relative;
+  font-size: var(--font-size-29xl);
+}
+.free-fake-api,
+.json-server {
+  position: relative;
+}
+.json-server {
+  color: inherit;
+}
+.json-server,
+.lowdb1 {
+  text-decoration: underline;
+}
+.lowdb,
+.powered-by-parent {
+  text-decoration: none;
+  color: inherit;
+}
+.lowdb {
+  position: relative;
+}
+.powered-by-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.serving-2-billion {
+  position: relative;
+  font-size: var(--font-size-xs);
+}
+.main {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  gap: var(--gap-6xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

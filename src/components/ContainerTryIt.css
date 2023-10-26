@@ -1,0 +1,76 @@
+.try-it {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: inherit;
+}
+.run-this-code {
+  display: block;
+}
+.run-this-code-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+}
+.fetch {
+  position: absolute;
+  top: 1.63rem;
+  left: 1.81rem;
+  font-size: inherit;
+  font-family: inherit;
+}
+.fetch-wrapper,
+.run-script {
+  position: relative;
+  color: var(--color-white);
+}
+.fetch-wrapper {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  height: 5.94rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.run-script {
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  text-align: left;
+  mix-blend-mode: normal;
+}
+.run-script-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-seagreen);
+  border-radius: var(--br-9xs);
+  width: 5.44rem;
+  height: 1.63rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.fetch1 {
+  position: absolute;
+  top: 2.06rem;
+  left: 1.81rem;
+  font-size: inherit;
+  font-family: inherit;
+}
+.truit {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) 0 var(--padding-32xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

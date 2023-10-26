@@ -1,0 +1,49 @@
+.when-to-use {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.jsonplaceholder-is-a,
+.whenever-you-need {
+  font-family: var(--font-inter);
+}
+.whenever-you-need {
+  font-weight: 600;
+}
+.jsonplaceholder-is-a-free-onli {
+  display: block;
+}
+.jsonplaceholder-is-a-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xs);
+}
+.desktop-1,
+.resources {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.resources {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) 0 var(--padding-32xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 18.69rem 18.88rem;
+  box-sizing: border-box;
+}

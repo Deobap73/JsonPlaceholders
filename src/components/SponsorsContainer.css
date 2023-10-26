@@ -1,0 +1,162 @@
+.sponsors1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.sponsors3 {
+  text-decoration: underline;
+}
+.sponsors2 {
+  color: inherit;
+}
+.jsonplaceholder-is-supported-b {
+  display: block;
+}
+.jsonplaceholder-is-supported-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-mini);
+  color: inherit;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 27.58%;
+  top: 0;
+  right: 72.42%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  height: 18.86%;
+  width: 4.06%;
+  top: 40%;
+  right: 75.55%;
+  bottom: 41.14%;
+  left: 20.39%;
+}
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  height: 20.71%;
+  width: 3.67%;
+  top: 44%;
+  right: 92.19%;
+  bottom: 35.29%;
+  left: 4.14%;
+}
+.vector-icon3,
+.vector-icon4 {
+  height: 54%;
+  width: 16.52%;
+  top: 22%;
+  right: 77.97%;
+  bottom: 24%;
+  left: 5.51%;
+}
+.vector-icon4 {
+  height: 43.29%;
+  top: 32.71%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  height: 8%;
+  width: 2.19%;
+  top: 46%;
+  right: 88.98%;
+  bottom: 46%;
+  left: 8.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  right: 81.29%;
+  left: 16.52%;
+}
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  height: 9%;
+  width: 4.41%;
+  top: 50%;
+  right: 84.02%;
+  bottom: 41%;
+  left: 11.56%;
+}
+.vector-icon8,
+.vector-icon9 {
+  height: 25.29%;
+  width: 48.01%;
+  top: 14.71%;
+  right: 20.23%;
+  bottom: 60%;
+  left: 31.76%;
+}
+.vector-icon9 {
+  height: 46.43%;
+  width: 50.63%;
+  top: 46.86%;
+  right: 17.03%;
+  bottom: 6.71%;
+  left: 32.34%;
+}
+.mockend-1,
+.sc-1 {
+  text-decoration: none;
+  position: relative;
+  width: 16rem;
+}
+.mockend-1 {
+  height: 4.38rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sc-1 {
+  height: 5.31rem;
+  background-image: url(/public/sc1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.your-company-logo {
+  text-decoration: underline;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  color: inherit;
+}
+.sponsors {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) 0 var(--padding-32xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

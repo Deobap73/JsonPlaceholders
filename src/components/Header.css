@@ -1,0 +1,46 @@
+.jsonplaceholder {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+}
+.jsonplaceholder-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.guide {
+  display: inline-block;
+  width: 3.56rem;
+  flex-shrink: 0;
+}
+.guide,
+.sponsor-this-project {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+}
+.header,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.navbar {
+  margin: 0;
+  width: 28.69rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.header {
+  align-self: stretch;
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-2xl) 0;
+}

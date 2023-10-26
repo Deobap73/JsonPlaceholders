@@ -1,0 +1,83 @@
+.resources1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  font-family: inherit;
+}
+.jsonplaceholder-comes-with {
+  display: block;
+}
+.jsonplaceholder-comes-with-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+}
+.posts1 {
+  margin: 0;
+}
+.posts,
+.posts2 {
+  position: relative;
+  display: inline-block;
+  height: 1.13rem;
+  flex-shrink: 0;
+}
+.posts {
+  text-decoration: none;
+  color: inherit;
+  width: 5.75rem;
+}
+.posts2 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  width: 5.5rem;
+}
+.posts-parent {
+  width: 12.38rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.frame-parent {
+  height: 8.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.note {
+  font-weight: 600;
+  font-family: var(--font-inter);
+}
+.guide2 {
+  text-decoration: underline;
+}
+.guide1 {
+  color: inherit;
+}
+.note-resources-have-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  color: inherit;
+}
+.whentouse {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-31xl) 0 var(--padding-32xl);
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
